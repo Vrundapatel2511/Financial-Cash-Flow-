@@ -1,6 +1,9 @@
 # Financial-Cash-Flow-
 If you notice any errors or have any questions/suggestions, please reach out! panchasaravb@gmail.com
 
+## Overview
+This repository contains financial data for the ABC company, including three Excel sheets: Chart of Accounts, Payments, and Income.
+
 # Financial Situation
 The company is currently experiencing a challenging financial situation, as indicated by a net loss of $1 million. The negative profit underscores the urgency to address underlying causes promptly.
 
